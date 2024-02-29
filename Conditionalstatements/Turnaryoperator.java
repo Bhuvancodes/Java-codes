@@ -4,7 +4,7 @@ class Turnaryoperator
 {
  public static void main(String args[])
  {
-   int n = 4;
+   int n = 5  ;
    int result=0;
 
  //if(n%2==0)

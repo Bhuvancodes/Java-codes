@@ -7,7 +7,7 @@ class ifelse
     int x=100;
     int y=8;
     int z=18;
-    if (x>y && x>z)
+    if (x>y && y>z)
     {
         System.out.println(x);
         System.out.println(x + " is greater");
